@@ -1,0 +1,1 @@
+This is the first project in The Odin Project. It displays a few of my favorite recipes. I'll be using HTML and CSS only.
